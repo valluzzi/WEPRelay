@@ -1,2 +1,2 @@
-# WEPRelay
-Arduino WEP Relay
+# WPARelay
+Arduino WPA Relay
